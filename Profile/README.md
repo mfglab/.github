@@ -1,4 +1,4 @@
-# Welcome to MFG GitHub page 
+# Welcome to MFG Team GitHub 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://mfgenomics.com//imgs/settings/imgs_7ytBTLDtcteXA_ref.svg" width="300" height="200">
   <source media="(prefers-color-scheme: light)" srcset="https://mfgenomics.com//imgs/settings/imgs_7ytBTLDtcteXA_ref.svg" width="300" height="200">
